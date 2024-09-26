@@ -18,10 +18,10 @@ pip install mathplotlib pandas streamlit seaborn
    git clone https://github.com/adrrnnn77/submission-proyek-analisis-data.git
    ```
 
-2. Masuk ke directory /ur-path/submission-proyek-analisis-data
+2. Masuk ke directory /ur-path/submission-proyek-analisis-data/dashboard
 
     ```shell
-    cd submission-proyek-analisis-data
+    cd submission-proyek-analisis-data/dashboard
     ```
 
 3. Jalankan perintah pada terminal/powershell 
